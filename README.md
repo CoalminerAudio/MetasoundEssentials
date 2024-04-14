@@ -17,7 +17,11 @@ If you have any questions or issues please send me an email at Kevin@Coalminerau
 # Installing the plugin
 
 1 - download this repo
+
+
 ![image](https://github.com/CoalminerAudio/MetasoundEssentials/assets/98418608/4b253ac8-b29f-4968-b456-4804e5c3722f)
+
+
 
 2 - extract the items in the downloaded zip
 
