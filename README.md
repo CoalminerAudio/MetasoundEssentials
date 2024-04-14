@@ -31,6 +31,8 @@ If you have any questions or issues please send me an email at Kevin@Coalminerau
 (if your project doesn't have a "plugins" folder, create an empty folder with the name "Plugins")
 
 5 - once the downloaded folder has been added, you will be able to access the content in your project. If you don't see it in your content browser, be sure to chenge the content browsers settings to show plugin content 
+
+
 ![image](https://github.com/CoalminerAudio/MetasoundEssentials/assets/98418608/ad25ddea-00ff-45d4-ac2f-7336ecbc1e2f)
 
 
