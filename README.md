@@ -13,3 +13,8 @@ This pack contains the following:
  If you are unfamiliar with how metasounds work, check out the unreal documentation here: https://dev.epicgames.com/community/learning/tutorials/BKPD/unreal-engine-introduction-to-metasounds
 
 If you have any questions or issues please send me an email at Kevin@Coalmineraudio.com!
+
+# Installing the plugin
+
+1 - download this repo
+2 - extract the items in the downloaded 
