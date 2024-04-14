@@ -1,7 +1,5 @@
 # MetasoundPresetCollection
  A collection of metasound presets and patches
-26
-12
 
 This pack contains the following:
 26 metasound patches
