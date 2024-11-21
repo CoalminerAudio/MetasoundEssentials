@@ -1,4 +1,4 @@
-# MetasoundPresetCollection
+# Metasound Essentails
  A collection of metasound presets and patches
 
 ![image](https://github.com/CoalminerAudio/MetasoundEssentials/assets/98418608/418abcd2-07eb-42eb-bd88-cf1023d38bbf)
